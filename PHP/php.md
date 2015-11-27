@@ -35,3 +35,5 @@ Here on content, we would save something like
     <p> Lorem Ipsum... </p>
 </div>
 ```
+
+Using our template class.
