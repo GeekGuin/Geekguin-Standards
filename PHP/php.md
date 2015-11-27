@@ -15,4 +15,4 @@ App
 
 ### Dinamyc HTML generation
 
-Normally
+Usually you 
