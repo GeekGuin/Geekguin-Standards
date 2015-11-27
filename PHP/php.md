@@ -15,4 +15,4 @@ App
 
 ## View Details
 
-Usually to 
+Usually to include the view files `require_once('fileName.php');`
