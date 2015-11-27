@@ -8,6 +8,7 @@ App
 │
 ├─Models
 ├─Views
-├──Controllers
+├─Controllers
+└─Plugins
 ⌂
 ```
