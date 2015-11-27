@@ -10,5 +10,4 @@ App
 ├─Views
 ├─Controllers
 └─Plugins
-⌂
 ```
