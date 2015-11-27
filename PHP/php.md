@@ -13,6 +13,6 @@ App
 ```
 
 
-### Dinamyc HTML generation
+### HTML generation
 
-Usually you 
+Usually to 
