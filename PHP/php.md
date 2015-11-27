@@ -1,3 +1,3 @@
 # PHP
 
-Our php workflow will be MVC oriented, 
+Our php workflow will be MVC oriented.
