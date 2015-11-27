@@ -15,4 +15,4 @@ App
 
 ## View Details
 
-Usually to include the view files `require_once('fileName.php');`
+Usually to include the view files `require_once('fileName.php');` is often used.
