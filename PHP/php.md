@@ -1,3 +1,3 @@
 # PHP
 
-PHP standards will go here.
+Our php workflow will be MVC oriented, 
