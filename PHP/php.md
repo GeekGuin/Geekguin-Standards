@@ -20,5 +20,7 @@ We usea  different strategy for this, as we use a templating class, we save the 
 in a variable then we proceed to print it directly. Example:
 
 ```PHP
+<body>
 
+</body>
 ```
