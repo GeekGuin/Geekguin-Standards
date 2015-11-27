@@ -13,6 +13,6 @@ App
 ```
 
 
-## View
+## View Details
 
 Usually to 
