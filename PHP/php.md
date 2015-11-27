@@ -27,3 +27,11 @@ in a variable then we proceed to print it directly. Example:
     <?php echo $content; ?>
 </body>
 ```
+
+Here on content, we would save something like
+
+```PHP
+<div>
+    <p> Lorem Ipsum... </p>
+</div>
+```
