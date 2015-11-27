@@ -13,6 +13,6 @@ App
 ```
 
 
-### HTML generation
+## View
 
 Usually to 
