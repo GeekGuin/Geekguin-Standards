@@ -8,6 +8,6 @@ App
 │
 ├─Models
 ├─Views
-├─Controllers
+├──Controllers
 ⌂
 ```
