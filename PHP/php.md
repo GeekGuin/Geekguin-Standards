@@ -9,7 +9,7 @@ App
 ├─Models
 ├─Views
 ├─Controllers
-└─Libs
+└─Libraries
 ```
 
 
