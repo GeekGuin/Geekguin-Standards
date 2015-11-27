@@ -28,7 +28,7 @@ in a variable then we proceed to print it directly. Example:
 </body>
 ```
 
-Here on content, we would save something like
+Here on `$content`, we would save something like the following
 
 ```PHP
 <div>
