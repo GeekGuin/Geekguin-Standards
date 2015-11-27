@@ -21,6 +21,6 @@ in a variable then we proceed to print it directly. Example:
 
 ```PHP
 <body>
-    <h1> </h1>
+    <h1> echo $title; </h1>
 </body>
 ```
