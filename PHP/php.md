@@ -15,7 +15,7 @@ App
 
 ## View Details
 
-Usually to include the view files `require_once('fileName.php');` is often used.
+Usually to include the view files `PHP require_once('fileName.php');` is often used.
 We use a  different strategy for this, as we use a template class, we save the HTML content 
 in a variable then we proceed to print it directly. Example:
 
