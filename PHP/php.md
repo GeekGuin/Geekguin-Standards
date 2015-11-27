@@ -22,5 +22,6 @@ in a variable then we proceed to print it directly. Example:
 ```PHP
 <body>
     <h1> echo $title; </h1>
+    <?php echo $content; ?>
 </body>
 ```
