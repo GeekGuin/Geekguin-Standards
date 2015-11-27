@@ -1,6 +1,6 @@
 # PHP
 
-Our php workflow will be MVC oriented.
+We us  php workflow will be MVC oriented.
 
 ### Folder Structure
 ```
